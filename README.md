@@ -5,6 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/980463943489310780/980463943489310783)
 
 ![Wtor4 GitHub stats](https://github-readme-stats.vercel.app/api?username=wtor4&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtor4)](https://github.com/wtor4/github-readme-stats)
 
 ## IDE que uso no meu dia
 <div style="display: inline_block"><br/>
@@ -16,4 +17,3 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
-  
