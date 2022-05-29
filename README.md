@@ -12,7 +12,7 @@
   <img align="center" alt="delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 </div>
 
-## Técnologias que utilizo no meu dia
+## Linguagens de programação que utilizo no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
